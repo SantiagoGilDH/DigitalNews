@@ -1,0 +1,279 @@
+{
+  "results": [
+    {
+      "subscribedTo": 1,
+      "category": "Technology",
+      "createdAt": "2015-02-03T13:43:22.526Z",
+      "feedLink": "http://www.popsci.com/rss.xml",
+      "iconLink": "http://www.popsci.com/sites/popsci.com/files/monkey.png",
+      "categoryName": "9UAzLEVcFl",
+      "searchableTitle": "popular science technology",
+      "title": "Popular Science",
+      "updatedAt": "2015-02-03T13:43:22.526Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Technology",
+      "createdAt": "2015-02-03T13:43:06.739Z",
+      "feedLink": "http://feeds2.feedburner.com/thenextweb",
+      "iconLink": "http://thenextweb.com/favicon.png",
+      "categoryName": "9UYyhq6Lm1",
+      "searchableTitle": "the next web technology",
+      "title": "The Next Web",
+      "updatedAt": "2015-02-03T13:43:06.739Z"
+    },
+    {
+      "subscribedTo": 1,
+      "category": "Gadgets",
+      "createdAt": "2015-02-03T13:43:50.333Z",
+      "feedLink": "http://www.gadgetreview.com/feed",
+      "iconLink": "https://www.makezens.com/wp-content/uploads/2015/04/gadget_review_200x200.jpg",
+      "categoryName": "AMOyeduW3I",
+      "searchableTitle": "Gadget Review",
+      "title": "Gadget Review",
+      "updatedAt": "2015-02-03T13:43:50.333Z"
+    },
+    {
+      "subscribedTo": 1,
+      "category": "Business",
+      "createdAt": "2015-02-03T13:44:59.110Z",
+      "feedLink": "http://www.forbes.com/entrepreneurs/index.xml",
+      "iconLink": "http://www.heysuccess.com/wp-content/uploads/2016/01/Forbes_Logo.jpg",
+      "categoryName": "Kw00qHSgL0",
+      "searchableTitle": "forbes - entrepreneurs business",
+      "title": "Forbes - Entrepreneurs",
+      "updatedAt": "2015-02-03T13:44:59.110Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Gadgets",
+      "createdAt": "2015-02-03T13:43:51.125Z",
+      "feedLink": "http://feeds.phonedog.com/phonedog_cellphoneblog",
+      "iconLink": "http://www.phonedog.com/sites/phonedog.com/themes/phonedog/images/footer-dog.jpg",
+      "categoryName": "OFAlI5vCNh",
+      "searchableTitle": "phonedog.com gadgets",
+      "title": "PhoneDog.com",
+      "updatedAt": "2015-02-03T13:43:51.125Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Technology",
+      "createdAt": "2015-02-03T13:43:00.285Z",
+      "feedLink": "http://feeds.feedburner.com/Techcrunch",
+      "iconLink": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk.jpg",
+      "categoryName": "QNl4ILo1yQ",
+      "searchableTitle": "techcrunch technology",
+      "title": "TechCrunch",
+      "updatedAt": "2015-02-03T13:43:00.285Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Technology",
+      "createdAt": "2015-02-03T13:43:23.698Z",
+      "feedLink": "http://rss.macworld.com/macworld/feeds/main",
+      "iconLink": "http://csmb.staticworld.net/images/furniture/macworld/NoPrimaryImage.png",
+      "categoryName": "RLwEKCUiBa",
+      "searchableTitle": "macworld technology",
+      "title": "Macworld",
+      "updatedAt": "2015-02-03T13:43:23.698Z"
+    },
+    {
+      "subscribedTo": 1,
+      "category": "Business",
+      "createdAt": "2015-02-03T13:44:47.102Z",
+      "feedLink": "http://feeds.feedburner.com/ducttapemarketing/nRUD",
+      "iconLink": "https://www.ducttapemarketing.com/wp-content/uploads/2015/07/Duct-Tape-Marketing-Logo.png",
+      "categoryName": "USUCTWWvFA",
+      "searchableTitle": "small business marketing blog from duct tape marketing business",
+      "title": "Small Business Marketing Blog from Duct Tape Marketing",
+      "updatedAt": "2015-02-03T13:44:47.102Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Gadgets",
+      "createdAt": "2015-02-03T13:43:35.164Z",
+      "feedLink": "http://www.wired.com/category/reviews/feed/",
+      "iconLink": "http://new.toplevel.design/wp-content/uploads/2016/03/WIRED-Logo.png",
+      "categoryName": "VX271U3Znw",
+      "searchableTitle": "WIRED",
+      "title": "WIRED",
+      "updatedAt": "2015-02-03T13:43:35.164Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Gadgets",
+      "createdAt": "2015-02-03T13:43:29.164Z",
+      "feedLink": "http://www.boygeniusreport.com/feed/",
+      "iconLink": "http://0.gravatar.com/blavatar/616256b50efddd8ae9b0c7f1f339a9f5?s=96&d=http%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png",
+      "categoryName": "VdLRP526xb",
+      "searchableTitle": "bgr gadgets",
+      "title": "BGR",
+      "updatedAt": "2015-02-03T13:43:29.164Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Business",
+      "createdAt": "2015-02-03T13:44:42.685Z",
+      "feedLink": "http://feeds.feedburner.com/BrazenCareerist",
+      "iconLink": "http://penelopetrunk.com/cdn/p-side.jpg",
+      "categoryName": "VjjeXuqeej",
+      "searchableTitle": "penelope trunk blog business",
+      "title": "Penelope Trunk Blog",
+      "updatedAt": "2015-02-03T13:44:42.685Z"
+    },
+    {
+      "subscribedTo": 1,
+      "category": "Gadgets",
+      "createdAt": "2015-02-03T13:43:31.646Z",
+      "feedLink": "http://feeds.feedburner.com/geeky-gadgets",
+      "iconLink": "http://www.geeky-gadgets.com/favicon.ico",
+      "categoryName": "XC7lGwtyl2",
+      "searchableTitle": "Geeky Gadgets",
+      "title": "Geeky Gadgets",
+      "updatedAt": "2015-02-03T13:43:31.646Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Finance",
+      "createdAt": "2015-02-03T13:45:26.424Z",
+      "feedLink": "http://dealbook.nytimes.com/feed/",
+      "iconLink": "http://fuller.edu/uploadedImages/Siteroot/About/News_and_Events/Fuller_in_the_Media/logo-nytimes.gif",
+      "categoryName": "Y0XJGL5yAw",
+      "searchableTitle": "dealbook finance",
+      "title": "DealBook",
+      "updatedAt": "2015-02-03T13:45:26.424Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Finance",
+      "createdAt": "2015-02-03T13:45:24.760Z",
+      "feedLink": "http://www.forbes.com/news/index.xml",
+      "iconLink": "http://www.heysuccess.com/wp-content/uploads/2016/01/Forbes_Logo.jpg",
+      "categoryName": "aJG8p1SIgc",
+      "searchableTitle": "forbes real time finance",
+      "title": "Forbes Real Time",
+      "updatedAt": "2015-02-03T13:45:24.760Z"
+    },
+    {
+      "subscribedTo": 1,
+      "category": "Finance",
+      "createdAt": "2015-02-03T13:45:14.790Z",
+      "feedLink": "https://uk.finance.yahoo.com/news/category-international/?format=rss",
+      "iconLink": "https://www.cdxlife.com/wp-content/uploads/Yahoo-Finance-Logo-300x300-1000x1000.png",
+      "categoryName": "ajVFU69odG",
+      "searchableTitle": "Finance News - Yahoo! Finance UK",
+      "title": "Finance News - Yahoo! Finance UK",
+      "updatedAt": "2015-02-03T13:45:14.790Z"
+    },
+    {
+      "subscribedTo": 1,
+      "category": "Travel",
+      "createdAt": "2015-02-03T13:51:03.665Z",
+      "feedLink": "http://feeds.feedburner.com/MatadorNetwork",
+      "iconLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDczrDL_QghETki613nQpzhDGpKbbIxDBiwpMm1Hr9KI7jrx5R",
+      "categoryName": "hHjSRnNGfF",
+      "searchableTitle": "matador network travel",
+      "title": "Matador Network",
+      "updatedAt": "2015-02-03T13:51:03.665Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Finance",
+      "createdAt": "2015-02-03T13:45:25.937Z",
+      "feedLink": "http://www.wsj.com/xml/rss/3_7031.xml",
+      "iconLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLxt1fGqkcEKX-kB5vhbM6HRuYpv9PVk8bYzkq7c9rJRC21AY5Pa5RAg0",
+      "categoryName": "iraDwoNB3Y",
+      "searchableTitle": "WSJ.com - Markets",
+      "title": "WSJ.com - Markets",
+      "updatedAt": "2015-02-03T13:45:25.937Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Business",
+      "createdAt": "2015-02-03T13:44:26.568Z",
+      "feedLink": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "iconLink": "http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+      "categoryName": "lvdxs2MEH8",
+      "searchableTitle": "BBC News - Business",
+      "title": "BBC News - Business",
+      "updatedAt": "2015-02-03T13:44:26.568Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Travel",
+      "createdAt": "2015-02-03T13:51:04.796Z",
+      "feedLink": "http://feeds.feedburner.com/MillionMileSecrets",
+      "iconLink": "https://pbs.twimg.com/profile_images/1547589545/MillionMileSecrets.jpg",
+      "categoryName": "mHc4UG3yIU",
+      "searchableTitle": "million mile secrets travel",
+      "title": "Million Mile Secrets",
+      "updatedAt": "2015-02-03T13:51:04.796Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Travel",
+      "createdAt": "2015-02-03T13:50:56.513Z",
+      "feedLink": "http://www.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "iconLink": "http://fuller.edu/uploadedImages/Siteroot/About/News_and_Events/Fuller_in_the_Media/logo-nytimes.gif",
+      "categoryName": "tHEYlkozrw",
+      "searchableTitle": "nyt > travel travel",
+      "title": "NYT > Travel",
+      "updatedAt": "2015-02-03T13:50:56.513Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Technology",
+      "createdAt": "2015-02-03T13:43:25.371Z",
+      "feedLink": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+      "iconLink": "http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+      "categoryName": "vXOvv84LWM",
+      "searchableTitle": "BBC News - Technology",
+      "title": "BBC News - Technology",
+      "updatedAt": "2015-02-03T13:43:25.371Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Finance",
+      "createdAt": "2015-02-03T13:45:06.846Z",
+      "feedLink": "http://feeds.feedburner.com/daily-express-finance-news",
+      "iconLink": "http://a2.mzstatic.com/us/r1000/001/Purple/64/ed/4b/mzi.snpuzamh.175x175-75.jpg",
+      "categoryName": "vpbCzJTQlY",
+      "searchableTitle": "Daily Express :: Finance Feed",
+      "title": "Daily Express :: Finance Feed",
+      "updatedAt": "2015-02-03T13:45:06.846Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Business",
+      "createdAt": "2015-02-03T13:44:28.093Z",
+      "feedLink": "http://feeds.copyblogger.com/Copyblogger",
+      "iconLink": "http://www.copyblogger.com/images/2014/06/a-sober-lesson-on-the-value-of-compromising-your-creative-ideas-copyblogger.jpg",
+      "categoryName": "w7Ax9tWcjH",
+      "searchableTitle": "copyblogger business",
+      "title": "Copyblogger",
+      "updatedAt": "2015-02-03T13:44:28.093Z"
+    },
+    {
+      "subscribedTo": 0,
+      "category": "Travel",
+      "createdAt": "2015-02-03T13:51:23.776Z",
+      "feedLink": "http://feeds.foxnews.com/foxnews/internal/travel/mixed",
+      "iconLink": "http://channels.roku.com/images/3966e90b61c942119571b820df28bb6b-hd.jpg",
+      "categoryName": "xl67VvQHyB",
+      "searchableTitle": "FOX News - Travel",
+      "title": "FOX News - Travel",
+      "updatedAt": "2015-02-03T13:51:23.776Z"
+    },
+    {
+      "subscribedTo": 1,
+      "category": "Travel",
+      "createdAt": "2015-02-03T13:51:22.709Z",
+      "feedLink": "http://skift.com/feed/",
+      "iconLink": "http://s3.amazonaws.com/garysguide/3d6a328bbe1a4593bc89c67357f0f173original.png",
+      "categoryName": "zRAglwTHxl",
+      "searchableTitle": "skiff travel",
+      "title": "Skiff",
+      "updatedAt": "2015-02-03T13:51:22.709Z"
+    }
+  ]
+}

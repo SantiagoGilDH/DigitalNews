@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pullToRefresh">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/RecyclerViewFragmentNewsList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#00000000"
+            android:layout_margin="5dp"
+            android:dividerHeight="5.0sp"/>
+
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/SwipeEmptyState"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/RelativeLayoutEmptyState"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorPrimaryDark">
+
+                <ImageView
+                    android:id="@+id/ImageViewEmptyState"
+                    android:src="@drawable/emptystate"
+                    android:layout_width="275dp"
+                    android:layout_height="275dp"
+                    android:scaleType="centerCrop"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentTop="true"
+                    />
+
+                <TextView
+                    android:id="@+id/TextViewEmptyState"
+                    android:textSize="30sp"
+                    android:text="@string/no_internet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/ImageViewEmptyState"
+                    android:gravity="center_horizontal"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="5dp"/>
+
+
+                
+
+            </RelativeLayout>
+
+
+        </ScrollView>
+
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/SwipeEmptyStateSaved"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/RelativeLayoutEmptyStateSaved"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorPrimaryDark">
+
+                <ImageView
+                    android:id="@+id/ImageViewEmptyStateSaved"
+                    android:src="@drawable/emptystatesaved"
+                    android:layout_width="275dp"
+                    android:layout_height="275dp"
+                    android:scaleType="centerCrop"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentTop="true"
+                    />
+
+                <TextView
+                    android:id="@+id/TextViewEmptyStateSaved"
+                    android:textSize="30sp"
+                    android:text="@string/no_news"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/ImageViewEmptyStateSaved"
+                    android:gravity="center_horizontal"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="5dp"/>
+
+                <!-->
+
+
+
+
+
+            <TextView
+                    android:id="@+id/TextViewScreenShot"
+                    android:textSize="20sp"
+                    android:text="LOOK FOR THE FLOATING BUTTON"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center_horizontal"
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@id/TextViewEmptyStateSaved"
+                    />
+
+                <ImageView
+                    android:id="@+id/ImageViewScreenshot"
+                    android:src="@drawable/screenshotemptystate"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_below="@id/TextViewScreenShot"
+                    android:layout_centerHorizontal="true"
+
+                -->
+
+
+            </RelativeLayout>
+
+
+        </ScrollView>
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+</FrameLayout>

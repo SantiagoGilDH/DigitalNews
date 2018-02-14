@@ -1,0 +1,189 @@
+{ "results": [
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Design",
+        "createdAt": "2015-02-03T08:55:30.775Z",
+        "categoryName": "1ezmQEpd1i",
+        "updatedAt": "2015-02-03T08:55:30.775Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Technology",
+        "createdAt": "2015-02-03T08:55:29.894Z",
+        "categoryName": "5dBaQy4wpf",
+        "updatedAt": "2015-02-03T08:55:29.894Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Music",
+        "createdAt": "2015-02-03T08:55:31.560Z",
+        "categoryName": "73nctHMpkY",
+        "updatedAt": "2015-02-03T08:55:31.560Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Business",
+        "createdAt": "2015-02-03T08:55:30.465Z",
+        "categoryName": "C4iDiuriB8",
+        "updatedAt": "2015-02-03T08:55:30.465Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Gadgets",
+        "createdAt": "2015-02-03T08:55:30.057Z",
+        "categoryName": "FGTeskscsC",
+        "updatedAt": "2015-02-03T08:55:30.057Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Auto",
+        "createdAt": "2015-02-03T08:55:32.000Z",
+        "categoryName": "J2YJqOxGIK",
+        "updatedAt": "2015-02-03T08:55:32.000Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Gaming",
+        "createdAt": "2015-02-03T08:55:31.405Z",
+        "categoryName": "J4Oq3C7nxg",
+        "updatedAt": "2015-02-03T08:55:31.405Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Social",
+        "createdAt": "2015-02-03T08:55:32.170Z",
+        "categoryName": "N6H0v01tCl",
+        "updatedAt": "2015-02-03T08:55:32.170Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Cooking",
+        "createdAt": "2015-02-03T08:55:31.849Z",
+        "categoryName": "XzGdFekl2A",
+        "updatedAt": "2015-02-03T08:55:31.849Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Entertainment",
+        "createdAt": "2015-02-03T08:55:31.247Z",
+        "categoryName": "Zk3DzKrF8k",
+        "updatedAt": "2015-02-03T08:55:31.247Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Fashion",
+        "createdAt": "2015-02-03T08:55:30.934Z",
+        "categoryName": "ghJX0ATWfq",
+        "updatedAt": "2015-02-03T08:55:30.934Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Travel",
+        "createdAt": "2015-02-03T08:55:32.487Z",
+        "categoryName": "hpPkcHkTTV",
+        "updatedAt": "2015-02-03T08:55:32.487Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Finance",
+        "createdAt": "2015-02-03T08:55:30.621Z",
+        "categoryName": "nA3FO06l9z",
+        "updatedAt": "2015-02-03T08:55:30.621Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Photography",
+        "createdAt": "2015-02-03T08:55:31.087Z",
+        "categoryName": "qC1VFzLgbF",
+        "updatedAt": "2015-02-03T08:55:31.087Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "News",
+        "createdAt": "2015-02-03T08:55:29.727Z",
+        "categoryName": "uXFSxpJeDO",
+        "updatedAt": "2015-02-03T08:55:29.727Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Sports",
+        "createdAt": "2015-02-03T08:55:30.263Z",
+        "categoryName": "yjHwfD1z3Y",
+        "updatedAt": "2015-02-03T08:55:30.263Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            }
+        },
+        "name": "Humor",
+        "createdAt": "2015-02-03T08:55:32.320Z",
+        "categoryName": "z8zyfeKhk7",
+        "updatedAt": "2015-02-03T08:55:32.320Z"
+    }
+] }

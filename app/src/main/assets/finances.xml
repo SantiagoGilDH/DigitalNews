@@ -1,0 +1,84 @@
+<channel>
+    <link>http://www.forbes.com/real-time/</link>
+    <language>en-us</language>
+    <title>Forbes Real Time</title>
+    <description>
+        Forbes Real Time news stream features up-to-date activity throughout Forbes.com. Watch news stories, photo galleries and video content publish in real time.
+    </description>
+    <copyright>Copyright 2016 Forbes LLC</copyright>
+    <item>
+        <link>
+            http://www.forbes.com/sites/johnmcquaid/2016/06/28/in-donald-trump-vs-elizabeth-warren-its-advantage-warren/
+        </link>
+        <title>In Donald Trump Vs. Elizabeth Warren, Its Advantage Warren</title>
+        <description>
+            The media love seeing two charismatic politicians going at it hammer-and-tongs. But it would be a mistake to view this as a mere personality duel. These exchanges reveal some things about the emerging dynamic of the race – things not good for Trump. This is another iteration of the asymmetrical [...]
+        </description>
+        <creator>John McQuaid, Contributor</creator>
+        <guid isPermaLink="false">5772e4e364aaf91e7e934958</guid>
+        <pubDate>Tue, 28 Jun 2016 22:30:00 -0400</pubDate>
+        <enclosure url="http://specials-images.forbesimg.com/imageserve/543300200/0x600.jpg?fit=scale">
+        </enclosure>
+    </item>
+    <item>
+        <link>
+            http://www.forbes.com/sites/allenstjohn/2016/06/28/nba-to-lebron-james-here-are-3300000-reasons-to-leave-cleveland-right-now/
+        </link>
+        <title>NBA To LeBron James: Here Are 3,300,000 Reasons To Leave Cleveland Right Now</title>
+        <description>
+            LeBron James's return to Cleveland and the team's roller coaster playoff run constituted one of the best storylines in recent NBA history. Why, then, is the league offering James a huge incentive to leave the Cavaliers as a free agent this summer? Because of a salary cap structure that's so complex [...]
+        </description>
+        <creator>Allen St. John, Contributor</creator>
+        <guid isPermaLink="false">5773233064aaf91e7e934a92</guid>
+        <pubDate>Tue, 28 Jun 2016 22:21:00 -0400</pubDate>
+        <enclosure url="http://specials-images.forbesimg.com/imageserve/c0332a7855b14216ad9f5b2a56c06555/0x600.jpg?fit=scale">
+        </enclosure>
+    </item>
+    <item>
+        <link>
+            http://www.forbes.com/sites/bryanrich/2016/06/28/are-financial-markets-over-exaggerating-the-brexit-effect/
+        </link>
+        <title>Are Financial Markets Over-Exaggerating The Brexit Effect?</title>
+        <description>
+            We’ve talked about the Brexit effect the past couple of days and we’ll continue on that theme today, as people continue to digest the results and come to grips with potential outcomes. The knee-jerk reaction in markets has suggested that there is considerable fear of another global financial crisis. But as [...]
+        </description>
+        <creator>Bryan Rich, Contributor</creator>
+        <guid isPermaLink="false">57732b2e64aaf91e7e934aaa</guid>
+        <pubDate>Tue, 28 Jun 2016 22:05:00 -0400</pubDate>
+        <enclosure url="http://blogs-images.forbes.com/bryanrich/files/2016/06/euro-gdp.jpg">
+        </enclosure>
+        <category domain="stock-symbol">NYSE:SPY</category>
+        <category domain="stock-symbol">NYSE:GLD</category>
+        <category domain="stock-symbol">NYSE:JPM</category>
+        <category domain="stock-symbol">NYSE:IWM</category>
+        <category domain="stock-symbol">NASDAQ:AAPL</category>
+    </item>
+    <item>
+        <link>
+            http://www.forbes.com/sites/ralphjennings/2016/06/28/philippine-president-elect-to-ease-off-profanity-after-taking-office/
+        </link>
+        <title>Philippine President-Elect To Use Less Profanity After Taking Office</title>
+        <description>
+            Philippine President-elect Rodrigo Duterte used the F-word in a speech earlier this month when tellingjournalists what not do with him. In the same 20-minute address, the man known as a crime-busting mayor of the country’s second largest city likened the odds of his apologizing to a journalist to the excrement [...]
+        </description>
+        <creator>Ralph Jennings, Contributor</creator>
+        <guid isPermaLink="false">5771d1a264aaf91e7e934299</guid>
+        <pubDate>Tue, 28 Jun 2016 22:00:00 -0400</pubDate>
+        <enclosure url="http://specials-images.forbesimg.com/imageserve/541933292/0x600.jpg?fit=scale">
+        </enclosure>
+    </item>
+    <item>
+        <link>
+            http://www.forbes.com/sites/kalevleetaru/2016/06/28/does-brexit-herald-a-new-era-for-big-data-driven-forecasting/
+        </link>
+        <title>Does Brexit Herald A New Era For Big Data-Driven Forecasting?</title>
+        <description>
+            How traditional polling, prediction markets and superforecasters all failed to robustly predict Brexit and how new data like search trends might offer insights in the future
+        </description>
+        <creator>Kalev Leetaru, Contributor</creator>
+        <guid isPermaLink="false">577319d564aaf91e7e934a75</guid>
+        <pubDate>Tue, 28 Jun 2016 21:52:00 -0400</pubDate>
+        <enclosure url="http://specials-images.forbesimg.com/imageserve/39135785/0x600.jpg?fit=scale">
+        </enclosure>
+    </item>
+</channel>

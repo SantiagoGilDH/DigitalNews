@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE digester-rules PUBLIC
+        "-//Apache Commons //DTD digester-rules XML V1.0//EN"
+        "http://commons.apache.org/digester/dtds/digester-rules-3.0.dtd">
+
+<digester-rules>
+
+    <pattern value="weather">
+        <object-create-rule classname="Weather"/>
+        <set-properties-rule/>
+
+        <pattern value="coordinates">
+            <object-create-rule classname="Coordinates"/>
+            <set-properties-rule/>
+
+            <!-- Nested Pattern for Characters -->
+            <pattern value="longitude">
+                <object-create-rule classname="Command"/>
+                <set-properties-rule/>
+                <set-next-rule methodname="addCommands"  paramtype="Command"/>
+            </pattern>
+            <pattern value="longitude">
+                <object-create-rule classname="Command"/>
+                <set-properties-rule/>
+                <set-next-rule methodname="addCommands"  paramtype="Command"/>
+            </pattern>
+        </pattern>
+    </pattern>
+</digester-rules>
